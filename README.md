@@ -2,6 +2,10 @@
 
 This is a simple budget app that allows you to set a budget and track your expenses. It provides a user-friendly interface to input expenses and displays the total budget, expenses, and balance.
 
+## Preview
+
+![App Screenshot](Budapp.png)
+
 ## Features
 
 - Set a total budget amount
